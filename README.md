@@ -2,7 +2,7 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Shobarudin alghozi**
+Perkenalkan nama saya **Shobarudin alghozii**
 
 Saya seorang **Front end developer**
 
