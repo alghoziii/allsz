@@ -6,4 +6,4 @@ Perkenalkan nama saya **Shobarudin alghozii**
 
 Saya seorang **Front end developer**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Shobarudin-alghozi/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Shobarudin-alghozi/) ku ya.
