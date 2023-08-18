@@ -2,8 +2,8 @@
 
 # Halo semua! 
 
-Perkenalkan nama saya **Shobarudin alghozi**.\
+Perkenalkan nama saya **Shobarudin alghozi**
 
-Saya seorang **Front end developer** .\
+Saya seorang **Front end developer**
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/Shobarudin-alghozi/)ku ya.
